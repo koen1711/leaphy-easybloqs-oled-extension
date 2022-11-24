@@ -1,2 +1,2 @@
-# leaphy easybloqs oled extension
+# OLED Extension
  
